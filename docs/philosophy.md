@@ -1,49 +1,43 @@
-# ✨ The Philosophy of One Man Agency
+# ⚙️ Philosophy of One Man Agency
 
 ---
 
-> “You don’t owe the world your attention span, but you can still sense its pulse.”
+### 🌍 The Core Idea
+**One Man Agency** is a living exploration of human–AI collaboration.  
+It’s a personal experiment in scale — seeing how far one individual, using today’s creative and technical tools, can push the boundary of productivity and expression.
+
+This is not about working alone for its own sake.  
+It’s about learning how much can be achieved with **intent, focus, and intelligent automation.**
 
 ---
 
-### 🌿 Simplicity as Rebellion
-Complexity is easy.  
-Simplicity takes courage — the courage to remove, to reduce, to focus.  
-Every project under One Man Agency is a refusal of excess.
+### 🤖 Human + Machine Creativity
+
+AI isn’t competition — it’s collaboration.  
+The machine handles repetition and recall; the human brings taste, empathy, and meaning.  
+Together, they can move faster than either could alone.
+
+The principle is simple:
+> *Leverage AI for speed, preserve humanity for sense.*
 
 ---
 
-### 🧠 Empathy Over Engagement
-The goal is not to hook attention, but to **hold presence** — gently, briefly.  
-Each artifact should make someone *pause* for a second, not scroll for an hour.
+### 🧩 Design Principles
+
+| Principle | Description |
+|------------|--------------|
+| **Curiosity over consistency** | Follow the idea that sparks interest, not the one that fits a pattern. |
+| **Constraints create clarity** | Small scope, one screen, one repo. Keep it tight and finishable. |
+| **Build to understand** | Code is thought made visible — each project is a learning artifact. |
+| **Emotion before efficiency** | Every creation should make someone feel something, even briefly. |
+| **Automation as artistry** | Systems can be beautiful when they work quietly and autonomously. |
 
 ---
 
-### 🪶 Emotion Before Interface
-Good design doesn’t start with pixels or frameworks — it starts with **feeling**.  
-What should the person feel before they think?
+### 🎨 Style and Spirit
 
----
-
-### 🔄 Repeatable Craft
-Every project is:
-- **Conceived** in one line  
-- **Designed** to fit in one screen  
-- **Built** with minimal dependencies  
-- **Shipped** in one repo
-
-Constraints are creative accelerants.
-
----
-
-### 🌍 Empathy as Architecture
-Tech can numb or awaken.  
-Each project chooses the latter — building small worlds that invite emotional intelligence back into digital spaces.
-
----
-
-### 💡 Endnote
-One Man Agency is not about doing everything alone.  
-It’s about proving that even **one person**, when intentional, can build meaning at scale.
-
-> *“Less as productivity. More as presence.”*
+Projects under One Man Agency share a recognizable DNA:
+- Lightweight, elegant design  
+- Minimal copy, maximum clarity  
+- Emotionally resonant interfaces  
+- Documentation
