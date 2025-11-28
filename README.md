@@ -25,7 +25,7 @@ Each exists to explore **what’s possible when curiosity meets capability.**
 | Project | Description | Live |
 |----------|--------------|------|
 | [Today in Emojis](https://pareeksourabh.github.io/today-in-emojis/) | A micro-news experiment that captures the world’s daily pulse in five emojis. | ✅ |
-| [Math is Punk](https://pareeksourabh.github.io/math-is-punk/) | A contrarion campaign to make maths cool again. | 🚧 |
+| [Math is Punk](https://github.com/pareeksourabh/math-is-punk) | A contrarion campaign to make maths cool again. | 🚧 |
 | [Today in Visuals](./docs/02-today-in-visuals.md) | A visual evolution — single-panel art that reflects the world’s emotional weather. | 🧩 Concept Stage |
 
 ---
